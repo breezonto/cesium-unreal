@@ -8,6 +8,7 @@
 THIRD_PARTY_INCLUDES_START
 #include <CesiumAsync/AsyncSystem.h>
 #include <CesiumImage/ImageDecoder.h>
+#include <CesiumGltfReader/GltfReader.h>
 THIRD_PARTY_INCLUDES_END
 #include <memory>
 
